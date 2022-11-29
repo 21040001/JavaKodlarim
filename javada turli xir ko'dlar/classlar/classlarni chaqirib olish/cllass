@@ -1,0 +1,9 @@
+public class class1 {
+    // classlarimizda kodlarni bu shakilda yozamiz
+    public void musteri(){
+        System.out.println("musteri");
+    }
+    public void musteriqosh(){
+        System.out.println("qoshildi");
+    }
+}
