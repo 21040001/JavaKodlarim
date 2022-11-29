@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+public class mukemel_sayi {
+    public static void main(String[] args) {
+    
+        Scanner girdi = new Scanner(System.in);
+        int sonuc = girdi.nextInt();
+        int d = 0;
+
+        for (int i = 1; i < sonuc; i++) {
+            if (sonuc % i == 0) d=d+i;
+
+        }
+        if (sonuc == d){
+            System.out.println("mukemel sayi");
+        }else System.out.println("mukemmel degildir");
+
+
+    }
+}
