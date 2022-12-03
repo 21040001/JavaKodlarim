@@ -1,0 +1,6 @@
+public class oqtuvch extends kreditbase{
+    @Override
+    public void hisobla() {
+        System.out.println("kredit oqutuvchilar un ");
+    }
+}
