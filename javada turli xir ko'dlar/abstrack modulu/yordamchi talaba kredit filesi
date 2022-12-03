@@ -1,0 +1,6 @@
+public class talaba extends kreditbase{
+    @Override
+    public void hisobla() {
+        System.out.println("talaba");
+    }
+}
