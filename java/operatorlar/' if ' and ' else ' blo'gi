@@ -1,19 +1,13 @@
-import java.util.Scanner;
 
 public class mukemel_sayi {
-    public static void main(String[] args) {
-    
-        Scanner girdi = new Scanner(System.in);
-        int sonuc = girdi.nextInt();
-        int d = 0;
-
-        for (int i = 1; i < sonuc; i++) {
-            if (sonuc % i == 0) d=d+i;
-
+    public static void main(String[] args) 
+        int a=2
+        int b=3
+        if (a > b){
+            System.out.println("kirilgan a sonimiz b dan kattadir");
+        }else{
+        System.out.println("kirilgan a sonimiz b dan kichkinadir");
         }
-        if (sonuc == d){
-            System.out.println("mukemel sayi");
-        }else System.out.println("mukemmel degildir");
 
 
     }
