@@ -1,0 +1,17 @@
+public class throwhatafirlatma {
+
+    public static void main(String[] args){
+    
+        throwclass throwclass=new throwclass();
+        
+        try {
+        
+            throwclass.hato(15);
+            
+        } catch (Exception e) {
+        
+            throw new RuntimeException(e);
+        }
+
+    }
+}
