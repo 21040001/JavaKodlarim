@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class main {
+public class HashMap {
     public static void main(String[] args){
         HashMap<String,String> hash=new HashMap<>();
         // bushaklda qiymatlarni tenglaymiz
