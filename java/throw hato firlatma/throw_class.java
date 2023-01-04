@@ -1,5 +1,5 @@
 
-public class throwclass {
+public class throw_class {
 
     public void hato(int d) throws Exception{
 
