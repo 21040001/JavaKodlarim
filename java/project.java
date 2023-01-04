@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 // Bir fabrikada çalışan N tane işçinin cinsiyeti, doğum yılı, medeni hali ve mezun olduğu okul bilgileri giriliyor.
 //• Cinsiyeti : CINS 0=Kadın 1=Erkek
 //• Doğum Yılı : DYIL
@@ -8,6 +9,7 @@ import java.util.Scanner;
 // kaç tane lise mezunu olduğunu bulan ve
 // cinsiyete göre okul türü toplamlarını bulan ve medeni hale göre cinsiyet toplamlarını
 // bulan programın akış diyagramını oluşturun.
+
 public class onemlimisol {
     public static void main(String[] args) {
         System.out.println("isci sayisini gir");
