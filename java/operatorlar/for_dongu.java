@@ -6,7 +6,7 @@ import java.util.Scanner;
 // Turkce: 10 kişiye ait notlar girilmektedir. Eğer not, 50’den küçükse kalır, 50’den
 // büyükse geçer kabul edilir. Buna göre geçen ve kalan sayısını bulup yazan programın akış diyagramını oluşturun
 
-public class misol3 {
+public class for_dongu {
     public static void main(String[] args){
         int p=0;
         int b=0;
