@@ -1,4 +1,4 @@
-public class Main {
+public class try-catch-finally {
     public static void main(String[] args) {
     
         try {
