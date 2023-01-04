@@ -1,4 +1,4 @@
-public class throwhatafirlatma {
+public class throw_main {
 
     public static void main(String[] args){
     
