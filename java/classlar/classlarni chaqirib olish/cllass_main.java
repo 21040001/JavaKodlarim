@@ -1,4 +1,4 @@
-public class class1main {
+public class class_main {
 // Biz bundan oldin yozgan classimizni bu shakilda chaqirib olamiz . chaqiradigan cllassimizni nomi 'class1'.
     public static void main(String[] args){
     // birinchi bolib classimizni new oraqali yangilab olamiz.
