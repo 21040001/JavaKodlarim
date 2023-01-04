@@ -2,7 +2,7 @@ public class throw_main {
 
     public static void main(String[] args){
     
-        throwclass throwclass=new throwclass();
+        throw_class throwclass=new throw_class();
         
         try {
         
