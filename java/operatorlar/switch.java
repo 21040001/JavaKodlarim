@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class misol2 {
+public class switch {
     public static void main(String[] args) {
     
 // O'zbekcha: kirilgan harfni 'sesli harf' yoki 'sezziz harf' ekanligini aniqlaydigan program.
