@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class dizi3soru {
+public class project1 {
     public static void main(String[] args){
     
         // o'zbekcha: foydalanuvchi tarafindan kirilgan sonlarni birbiriga oxshamaganlarini (unique), shakilda yozdiradigan program.
