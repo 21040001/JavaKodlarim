@@ -1,5 +1,5 @@
-
-public class mukemel_sayi {
+//if va else 
+public class mukemel_sayi { 
     public static void main(String[] args) 
         int a=2
         int b=3
