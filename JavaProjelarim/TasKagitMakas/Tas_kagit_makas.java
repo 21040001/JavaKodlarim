@@ -1,4 +1,6 @@
-{
+import java.util.Scanner;
+
+public class Tas_kagit_makas {
     public static void main(String[] args) {
         int d=0;
         int s=0;
