@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Locale;
-public class Main {
+public class OnaFayl {
     public static void main(String[] args) {
         Scanner girdi = new Scanner(System.in);
         girdi.useLocale(Locale.UK);
