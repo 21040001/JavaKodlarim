@@ -1,4 +1,4 @@
-public class atmclass {
+public class ATM_class {
     int toplam=100;
     public int bakiye(){
         return toplam;
